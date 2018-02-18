@@ -32,7 +32,8 @@ h4 {
 }
 .bottom-info {
   background-color: dimgray;
-  color: white
+  color: white;
+  text-align:left
 }
 .copyright {
   font-size: 11px
